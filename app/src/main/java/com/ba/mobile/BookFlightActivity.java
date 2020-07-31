@@ -33,7 +33,7 @@ public class BookFlightActivity extends AppCompatActivity implements AdapterView
    RadioButton radioButtonretun;
    RadioButton radioButtononeway;
    TextView txtdepart, txtreturn;
-
+    // Added comment by Nilesh
    int txtflag = 0;
 
     String[] fromair={"--Select-- ","Aalborg,Denmark","Bangalore, India (BLR)","Pune, India (PNQ)", "Hydrabad, India(HYD)", "Dubai, UAE (DXB)","New Delhi, India(DEL)","Mumbai, India(BOM)","LONDON, GB (LHR)","CHICAGO IL, US (ORD)", "LOS ANGELES CA, US (LAX)", "PARIS, FR (CDG)","TOKYO, JP (HND)", "HONG KONG, HK (HKG)","HONG KONG, HK (HKG)" };
