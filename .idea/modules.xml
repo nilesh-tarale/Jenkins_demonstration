@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Jenkins_demonstration.iml" filepath="$PROJECT_DIR$/.idea/modules/Jenkins_demonstration.iml" group="Jenkins_demonstration" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="Jenkins_demonstration/app" />
       <module fileurl="file://$PROJECT_DIR$/pCloudSampleAndroidApp-master.iml" filepath="$PROJECT_DIR$/pCloudSampleAndroidApp-master.iml" />
     </modules>
   </component>
